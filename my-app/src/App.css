@@ -1,3 +1,27 @@
+.halo {
+  background-color: #399165;
+  margin-left: 100px;
+}
+
+.halo-dunia {
+  background-color: #9e006f;
+  margin-left: 100px;
+}
+
+.list {
+  background-color: #9e9400;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.warna-merah {
+  background-color: rgb(43, 245, 122);
+}
+
+.class-tambahan {
+  background-color: red;
+}
+
 .App {
   text-align: center;
 }
