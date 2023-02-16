@@ -1,3 +1,15 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  width: 8px;
+}
+
 .margin-left15 {
   margin-left: 15px;
 }
